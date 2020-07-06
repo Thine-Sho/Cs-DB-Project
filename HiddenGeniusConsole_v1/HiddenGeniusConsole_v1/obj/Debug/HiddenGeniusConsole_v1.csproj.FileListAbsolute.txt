@@ -1,0 +1,14 @@
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\bin\Debug\HiddenGeniusConsole_v1.exe.config
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\bin\Debug\HiddenGeniusConsole_v1.exe
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\bin\Debug\HiddenGeniusConsole_v1.pdb
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\bin\Debug\MetroFramework.Design.dll
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\bin\Debug\MetroFramework.dll
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\bin\Debug\MetroFramework.Fonts.dll
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\obj\Debug\HiddenGeniusConsole_v1.csprojAssemblyReference.cache
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\obj\Debug\HiddenGeniusConsole_v1.Properties.Resources.resources
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\obj\Debug\HiddenGeniusConsole_v1.registration.resources
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\obj\Debug\HiddenGeniusConsole_v1.csproj.GenerateResource.cache
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\obj\Debug\HiddenGeniusConsole_v1.csproj.CoreCompileInputs.cache
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\obj\Debug\HiddenGeniusConsole_v1.csproj.CopyComplete
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\obj\Debug\HiddenGeniusConsole_v1.exe
+C:\Users\Jahi\source\repos\HiddenGeniusConsole_v1\HiddenGeniusConsole_v1\obj\Debug\HiddenGeniusConsole_v1.pdb

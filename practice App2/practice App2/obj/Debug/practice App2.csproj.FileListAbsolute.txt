@@ -1,0 +1,15 @@
+C:\Users\Jahi\source\repos\practice App2\practice App2\bin\Debug\practice App2.exe.config
+C:\Users\Jahi\source\repos\practice App2\practice App2\bin\Debug\practice App2.exe
+C:\Users\Jahi\source\repos\practice App2\practice App2\bin\Debug\practice App2.pdb
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice App2.csprojAssemblyReference.cache
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\MainWindow.g.cs
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\App.g.cs
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice App2_MarkupCompile.cache
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice App2_MarkupCompile.lref
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\MainWindow.baml
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice App2.g.resources
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice_App2.Properties.Resources.resources
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice App2.csproj.GenerateResource.cache
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice App2.csproj.CoreCompileInputs.cache
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice App2.exe
+C:\Users\Jahi\source\repos\practice App2\practice App2\obj\Debug\practice App2.pdb

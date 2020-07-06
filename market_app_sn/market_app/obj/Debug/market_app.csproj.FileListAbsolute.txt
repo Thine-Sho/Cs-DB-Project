@@ -1,0 +1,10 @@
+C:\Users\Jahi\source\repos\market_app_sn\market_app\bin\Debug\market_app.exe.config
+C:\Users\Jahi\source\repos\market_app_sn\market_app\bin\Debug\market_app.exe
+C:\Users\Jahi\source\repos\market_app_sn\market_app\bin\Debug\market_app.pdb
+C:\Users\Jahi\source\repos\market_app_sn\market_app\obj\Debug\market_app.csprojAssemblyReference.cache
+C:\Users\Jahi\source\repos\market_app_sn\market_app\obj\Debug\market_app.first_method.resources
+C:\Users\Jahi\source\repos\market_app_sn\market_app\obj\Debug\market_app.Properties.Resources.resources
+C:\Users\Jahi\source\repos\market_app_sn\market_app\obj\Debug\market_app.csproj.GenerateResource.cache
+C:\Users\Jahi\source\repos\market_app_sn\market_app\obj\Debug\market_app.csproj.CoreCompileInputs.cache
+C:\Users\Jahi\source\repos\market_app_sn\market_app\obj\Debug\market_app.exe
+C:\Users\Jahi\source\repos\market_app_sn\market_app\obj\Debug\market_app.pdb

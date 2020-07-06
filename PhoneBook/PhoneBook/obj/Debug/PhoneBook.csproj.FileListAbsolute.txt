@@ -1,0 +1,13 @@
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe.config
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.exe
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\bin\Debug\PhoneBook.pdb
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csprojAssemblyReference.cache
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Form1.resources
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Properties.Resources.resources
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.GenerateResource.cache
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.csproj.CoreCompileInputs.cache
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.exe
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.pdb
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.About_us.resources
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Reg_data.resources
+C:\Users\Jahi\source\repos\PhoneBook\PhoneBook\obj\Debug\PhoneBook.Search_Form.resources
